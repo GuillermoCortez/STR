@@ -2,6 +2,9 @@
 
 Bienvenidos al repositorio de la materia **Sistemas de Tiempo Real**, en la cual trabajaremos con **microcontroladores** usando **Arduino** y la librería **FreeRTOS**. En este repositorio encontrarás tanto el contenido **teórico** como el **práctico** que iremos desarrollando a lo largo de las clases.
 
+## Ejemplo de uso del simulador online para Arduino: Wokwi.com.
+https://wokwi.com/projects/411754043806126081
+
 ## Estructura del Repositorio
 
 El contenido del repositorio está organizado en dos carpetas principales:
